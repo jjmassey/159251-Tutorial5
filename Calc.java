@@ -6,6 +6,6 @@ public class Calc {
 
     public static void main(String [] args) {
         Calc c = new Calc();
-        assert c.add (3,3) == 6;
+        assert c.add(3,3) == 6;
     }
 }
